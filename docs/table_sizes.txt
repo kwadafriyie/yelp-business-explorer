@@ -1,0 +1,24 @@
+                List of tables
+ Schema |        Name        | Type  |  Owner
+--------+--------------------+-------+----------
+ public | business           | table | postgres
+ public | business_attribute | table | postgres
+ public | business_category  | table | postgres
+ public | category           | table | postgres
+ public | checkin            | table | postgres
+ public | review             | table | postgres
+ public | yelp_user          | table | postgres
+ public | zipcodedata        | table | postgres
+(8 rows)
+
+      ?column?      | count
+--------------------+--------
+ Category           |    226
+ Business           |  11481
+ ZipcodeData        |  32630
+ Business_Category  |  33619
+ Yelp_User          | 192999
+ Business_Attribute | 227536
+ Checkin            | 481360
+ Review             | 416479
+(8 rows)

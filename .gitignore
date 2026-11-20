@@ -1,0 +1,11 @@
+﻿*.JSON
+*.json
+*_insert.sql
+zipData*.sql
+*.csv
+yelp_*.txt
+load_all.sql
+CptS451_Online_parseJSON.py
+__pycache__/
+
+*_insert_sample.sql
